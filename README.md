@@ -31,5 +31,3 @@ URL for application deployed:https://alicenouhouemale.github.io/Code-Quiz/
 # Demo
 
 https://user-images.githubusercontent.com/110863801/190878274-7bc82379-eb5c-4ebf-9076-8d89ee6e77c7.mov
-
-
